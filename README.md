@@ -31,4 +31,10 @@ Optionally if docker is installed on your system you can test epub conversion wi
 
 The result is downloadable as the `E-pub-book` asset of the [last release](https://github.com/YOUR-PROJECT/releases/latest).
 
+## Sematic release
+
+The repo uses [Semantic release](https://github.com/semantic-release/semantic-release) for the commit messages.
+
+## Pandoc
+
 E-pub conversion made with [pandoc](https://pandoc.org/)

@@ -33,5 +33,9 @@ the end
 
 # Special french char
 
-Espace insécable: ?
-— dialog dash
+Non-breaking space: Unicode **202F** considérablement considérablement considérablement considérablement
+
+breaking space: considérablement considérablement considérablement considérablement
+
+— dialogue
+…
